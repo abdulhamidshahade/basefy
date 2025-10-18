@@ -1,1 +1,1 @@
-"# BaseMind Telegram Bot Project" 
+# BaseMind Telegram Bot Project
